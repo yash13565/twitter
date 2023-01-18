@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 440px;
+    height: 60px;
+    margin-bottom: 3rem;
+}
+.month{
+    width: 206px;
+    height: 56px;
+    background-color: black;
+    color: white;
+    margin-right: 1rem;
+}
+.year{
+    width: 113px;
+    height: 56px;
+    background-color: black;
+    color: white;
+    
+}
+.day{
+    width: 91px;
+    height: 56px;
+    background-color: black;
+    color: white;
+    margin-right: 1rem;
+}

@@ -1,0 +1,10 @@
+
+input{
+    width: 282.4px;
+    height: 20px;
+    
+    
+}
+input:active{
+  border: 2px solid ;
+}
